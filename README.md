@@ -17,6 +17,7 @@ Netherlands). The main objective is to analyze quarterly credit stocks from 1997
 major European economies. The project focuses on three different TLTRO phases (I:
 2014-2016, II: 2016-2019, III: 2019-2022).
 
+
 Methodology
 
 1. Obtaining quarterly total credit stock data from the ECB Statistical Data
