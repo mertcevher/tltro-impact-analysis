@@ -1,6 +1,6 @@
 Tableau Visualizations
 
-This folder contains Tableau workbook exports and PDF report of key visualizations.
+This folder contains Tableau workbook exports and PDF report of key visualizations used in this project.
 
 - Figure 1: Quarterly total loan stock of Germany (Trillion €)  
 - Figure 2: Quarterly total loan stock of France (Trillion €)  
